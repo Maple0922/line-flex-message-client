@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@line/liff": "^2.24.0",
     "@mdi/font": "7.2.96",
     "axios": "^1.4.0",
     "moment": "^2.29.4",
